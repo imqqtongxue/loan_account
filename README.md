@@ -21,27 +21,14 @@
 ### 启动步骤
 1. 下载本仓库代码，或直接克隆到本地：
 git clone https://github.com/imqqtongxue/loan_account.git
-文本
-
-编辑
-
 
 
 2. 进入项目目录：
 cd loan_account
-文本
-
-编辑
-
 
 
 3. 运行主程序：
 python loan_account.py
-文本
-
-编辑
-
-
 
 
 ## 项目结构
@@ -49,9 +36,6 @@ loan_account/
 ├── loan_account.py # 程序主入口文件
 ├── README.md # 项目说明文档
 └── data.json # 本地数据存储文件（首次运行后自动生成）
-文本
-
-编辑
 
 
 
